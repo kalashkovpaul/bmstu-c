@@ -1,0 +1,1 @@
+./a.exe pos_04_in.txt

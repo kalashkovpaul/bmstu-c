@@ -1,0 +1,12 @@
+n a m e 3
+makr3
+10
+10
+na me 2
+make r 3
+10
+8
+name1
+maker 1
+10
+1

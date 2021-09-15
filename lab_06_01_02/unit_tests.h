@@ -1,0 +1,1 @@
+int activate_unit_tests();

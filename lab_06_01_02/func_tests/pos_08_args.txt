@@ -1,0 +1,1 @@
+./a.exe pos_08_in.txt name1

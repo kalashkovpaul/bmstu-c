@@ -1,0 +1,1 @@
+./a.exe p neg_02_test.txt

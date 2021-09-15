@@ -1,0 +1,1 @@
+./a.exe neg_02_in.txt all

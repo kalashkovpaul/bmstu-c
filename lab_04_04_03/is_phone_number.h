@@ -1,0 +1,1 @@
+int is_phone_number(char *string, int length);

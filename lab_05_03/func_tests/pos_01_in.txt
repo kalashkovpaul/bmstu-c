@@ -1,0 +1,1 @@
+./a.exe p pos_01_test.txt
