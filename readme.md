@@ -1,4 +1,4 @@
-# Labs on **C Course**, BMSTU IU7 (III - IV semester), 2021 - 2022
+# Labs on **C Course**, BMSTU IU7 (III - IV semester), 2020 - 2021
 ## Variant **VIII**. Tasks may be found at the link below (GitLab):
 
 
