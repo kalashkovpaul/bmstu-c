@@ -148,18 +148,21 @@ int compare(item first, item second)
     return ((first.mass / first.volume - second.mass / second.volume) > 0);
 }
 
+void swap(item *left, item *rigth)
+{
+    item t;
+    t = *left;
+    *left = *rigth;
+    *rigth = t;
+}
+
 int sort_items(item *items, int length)
 {
     int i, j;
-    item t = { 0 };
     for (i = 1; i < length; i++)
     {
         for (j = i; j > 0 && compare(items[j - 1], items[j]); j--)
-        {
-            t = items[j - 1];
-            items[j - 1] = items[j];
-            items[j] = t;
-        }
+            swap(items + j - 1, items + j);
     }
     return OK;
 }

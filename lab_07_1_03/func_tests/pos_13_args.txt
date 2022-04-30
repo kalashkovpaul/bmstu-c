@@ -1,0 +1,1 @@
+./app.exe func_tests/pos_13_in.txt func_tests/test.txt f

@@ -5,3 +5,6 @@
 *.gch
 .vscode
 *testmain.c
+log
+*.so
+*.a
